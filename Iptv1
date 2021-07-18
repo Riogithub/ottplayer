@@ -1,0 +1,427 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMC 1 SPORT FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/4949
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMC 2 SPORT FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/4950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL  SPORT FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/2397
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/2393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", INFOSPORT FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/2396
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL  SPORT
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEINSPORT1FR
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEINSPORT2FR
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEINSPORT3FR
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 4
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3187
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 5
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 6
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 7
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 8
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 9
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sport Max 10
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMC SPORT 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMC SPORT 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMC SPORT 3
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/539
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMCSPORT4
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RMC SPORT 5 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/3215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT  2 FR
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 1 FR
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", INFOSPORT
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/534
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DUBAI SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABU DHABI SPORTS 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS  News HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/1884
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/1885
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/681
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 3
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 5
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/674
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 6
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/672
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 7
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/670
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN SPORTS HD1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/682
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN SPORTS HD3
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/679
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN SPORTS HD4
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN SPORTS HD5
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/675
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN SPORTS HD6
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN SPORTS HD7
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/671
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS NBA HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/63912
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS ENGLISH 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/63916
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS ENGLISH 3 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/63915
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS FRENCH 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/63917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS FRENCH 2 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/63918
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 1 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58410
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 2 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58411
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 3 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58412
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 4 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 5 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 6 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BIENSPORT 7 H265
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/58416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 1 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/5658
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/37619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 3 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/5656
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 4 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/5655
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 5 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/5654
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 6 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/5653
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT 7 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/5652
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVENSPORT 1 (BE)
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64468
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVENSPORT 1 (FR)
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVENSPORT 2 (BE)
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64470
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVENSPORT 2 (FR)
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64471
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVENSPORT 3 (BE)
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVENSPORT 3 (FR)
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64473
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64475
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 1 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64477
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 3
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64479
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 3 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 4
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64481
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLAY SPORTS 5
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOO SPORT 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOO SPORT 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOO SPORT WORLD 1 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64492
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOO SPORT WORLD 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOO SPORT WORLD 3 FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/64494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurosport 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT NEWS
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38646
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT ACTION
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38647
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT FOOTBALL
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38648
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT F1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38649
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT MAIN EVENT
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38650
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT MIX
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38651
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY SPORT PREMIER LEAGUE
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38652
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EIR SPORT 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38653
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EIR SPORT 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38654
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38655
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38656
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EuroSport 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport24
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Arena
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Uno
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Football
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18412
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Serie A
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18405
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport F1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport F1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport MotoGP
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport MotoGP HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18408
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport NBA HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18407
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SportItalia
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18529
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18528
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 3 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18527
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 4 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18526
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 5 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18525
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 6 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EXTREME SPORTS HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/18536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZIGGO SPORT GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZIGGO SPORT RACING HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZIGGO SPORT SELECT HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY - SPORT NEWS HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38891
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KY - SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38892
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38903
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 2 HD XTRA
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38904
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38906
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport TV 1 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59274
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport TV 2 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport TV 3 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport TV 4 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport TV 5 HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport TV
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sporting TV
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurosport 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kombat Sport
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59242
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", IRAQ SPORT
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/65191
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Transporter 2 - 2005
+http://dimapro.cz:8080/movie/00:1A:79:17:03:FA/fukssjslsljls/61066.
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Transporter 3 - 2008
+http://dimapro.cz:8080/movie/00:1A:79:17:03:FA/fukssjslsljls/61067.
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Transporter - 2002
+http://dimapro.cz:8080/movie/00:1A:79:17:03:FA/fukssjslsljls/61068.
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Transporter Refueled - 2015
+http://dimapro.cz:8080/movie/00:1A:79:17:03:FA/fukssjslsljls/61215.
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Transporter 3 (2008)
+http://dimapro.cz:8080/movie/00:1A:79:17:03:FA/fukssjslsljls/53337.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beINSPORT US
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/39089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT 2HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/39085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBS SPORTS NET
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/39088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 1
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", INFOSPORT
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59467
